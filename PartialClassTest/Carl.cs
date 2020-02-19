@@ -8,9 +8,10 @@ namespace PartialClassTest
 {
     partial class Linus
     {
-        public static void Metod()
+
+        public static void PrintsLinus()
         {
-            Console.WriteLine("Hej din fina jävle");
+            Console.WriteLine("Linus");
         }
     }
 }
