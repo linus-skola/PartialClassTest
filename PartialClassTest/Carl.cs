@@ -8,5 +8,9 @@ namespace PartialClassTest
 {
     class Carl
     {
+        public static void Metod()
+        {
+            Console.WriteLine("Hej din fina jävle");
+        }
     }
 }
