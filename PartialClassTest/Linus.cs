@@ -8,5 +8,6 @@ namespace PartialClassTest
 {
     class Linus
     {
+        //Hej din fina fisk :)  
     }
 }
