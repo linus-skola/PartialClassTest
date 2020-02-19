@@ -11,6 +11,7 @@ namespace PartialClassTest
         public static void PrintCarl()
         {
             Console.WriteLine("Carls");
+            Console.WriteLine("är fin!");
         }
     }
 }
