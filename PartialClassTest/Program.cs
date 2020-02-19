@@ -10,6 +10,8 @@ namespace PartialClassTest
     {
         static void Main(string[] args)
         {
+
+            Linus.PrintsLinus
         }
     }
 }

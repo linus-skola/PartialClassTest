@@ -12,6 +12,8 @@ namespace PartialClassTest
         public static void PrintsLinus()
         {
             Console.WriteLine("Linus");
+            Console.WriteLine("Jonathan");
+
         }
     }
 }
