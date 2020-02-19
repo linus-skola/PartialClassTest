@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PartialClassTest
 {
-    class Linus
+    partial class Linus
     {
         //Hej din fina fisk :)  
     }

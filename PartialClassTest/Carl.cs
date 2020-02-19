@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PartialClassTest
 {
-    class Carl
+    partial class Linus
     {
         public static void Metod()
         {
